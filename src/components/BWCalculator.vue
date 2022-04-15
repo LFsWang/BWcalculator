@@ -221,7 +221,7 @@ const oriEarnPoints = computed(() => {
   <p>折扣：9 折寫 0.9， 85 折寫 0.85。沒打折寫 1。</p>
   <p>全館點數倍率：40 倍寫 40。沒加倍寫 1。</p>
   <p>
-    會員點數倍率看自己的會員等級，田你帳號 LV 紅字的結帳金額回饋 % 數。因此最低的 LV0 倍率要寫 1，因此最高的 LV7 倍率要寫 12。
+    會員點數倍率看自己的會員等級，填你帳號 LV 紅字的結帳金額回饋 % 數。因此最低的 LV0 倍率要寫 1，因此最高的 LV7 倍率要寫 12。
     <a
       href="https://www.bookwalker.com.tw/explanation/level"
       target="_blank"
