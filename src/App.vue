@@ -1,15 +1,16 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <BWCalculator />
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import "bootstrap/dist/css/bootstrap.min.css"
+import "bootstrap"
+import BWCalculator from './components/BWCalculator.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    BWCalculator
   }
 }
 </script>
